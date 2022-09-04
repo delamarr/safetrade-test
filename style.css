@@ -1,0 +1,51 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+
+.container1{
+    height: 600px;
+    background-image: url(images/photo-1611974789855-9c2a0a7236a3.jpg);
+    margin-left: -0.52px;
+    margin-bottom: 100px;
+    margin-top: -20px;
+}
+
+.container1 h1{
+    text-align: center;
+    color: white;
+    padding: 200px;
+}
+
+.container2 {
+    font-family: sans-serif;
+    text-align: center;
+    padding: 80px;
+}
+
+.container h1{
+    font-family: sans-serif; 
+    font-size: 25px;   
+}
+
+.container h3{
+    font-family: sans-serif;
+    font-size: 17px;
+}
+
+#contact{
+    margin-top: 150px;
+    font-family: sans-serif;
+}
+
+#contact h2{
+    margin-top: 30px;
+}
+
+ .container-fluid h4{
+    text-align: center;
+    font-size: 16px; 
+    font-family: sans-serif;
+    padding: 20px;
+ }       
